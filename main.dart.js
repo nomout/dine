@@ -28471,7 +28471,7 @@ k.aC()
 k.a5e(null,null,p)
 q.ch$!==$&&A.ah()
 q.ch$=k
-l=k}q.a_U(new A.Ez(n,new A.NF(new A.a16("https://nomout-production.up.railway.app"),null),m,l,null))
+l=k}q.a_U(new A.Ez(n,new A.NF(new A.a16("https://nomout-production.up.railway.app/api/v1"),null),m,l,null))
 q.Lu()
 return A.F(null,r)}})
 return A.G($async$aC3,r)},
